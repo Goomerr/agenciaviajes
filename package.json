@@ -19,17 +19,6 @@
   "devDependencies": {
     "dotenv": "^10.0.0",
     "nodemon": "^2.0.7"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Goomerr/agenciaviajes.git"
-  },
-  "keywords": [
-    "agencia",
-    "viajes"
-  ],
-  "bugs": {
-    "url": "https://github.com/Goomerr/agenciaviajes/issues"
-  },
-  "homepage": "https://github.com/Goomerr/agenciaviajes#readme"
+  }
+ 
 }
